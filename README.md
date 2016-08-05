@@ -5,12 +5,12 @@ Usage:
 
 Javascript Init:
 
-var language = new $.i18n();
+```var language = new $.i18n();```
 
 
 HTML:
 
-<h1 data-i18n="keyword"></h1>
+```<h1 data-i18n="keyword"></h1>```
 
 
 Options:
