@@ -15,5 +15,5 @@ HTML:
 
 Options:
 
-path (/scripts/): To specify language file path on WebServer
-tag ("i18n"): Tag used for data attributes
+path (/scripts/): To specify language file path on WebServer  
+tag ("i18n"): Tag used for data attributes  
